@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Co oznacza skrót LAN?",
+    "options": {
+      "A": "Large Area Network",
+      "B": "Local Area Network",
+      "C": "Long Access Network",
+      "D": "Logical Area Network"
+    },
+    "answer": "B",
+    "occurrences": 1
+  },
+  {
+    "question": "Jakie rozszerzenie pliku zwykle ma dokument tekstowy utworzony w Microsoft Word?",
+    "options": {
+      "A": ".docx",
+      "B": ".exe",
+      "C": ".pdf",
+      "D": ".jpg"
+    },
+    "answer": "A",
+    "occurrences": 1
+  },
+  {
+    "question": "Jakie rozszerzenie pliku zwykle ma dokument tekstowy utworzony w Microsoft Word?",
+    "options": {
+      "A": ".docx",
+      "B": ".exe",
+      "C": ".pdf",
+      "D": ".jpg"
+    },
+    "answer": "A",
+    "occurrences": 0
+  },
+  {
+    "question": "Który protokół jest odpowiedzialny za niezawodny przesył danych w Internecie?",
+    "options": {
+      "A": "TCP",
+      "B": "UDP",
+      "C": "ICMP",
+      "D": "HTTP"
+    },
+    "answer": "A",
+    "occurrences": 1
+  },
+  {
+    "question": "Który protokół jest odpowiedzialny za niezawodny przesył danych w Internecie?",
+    "options": {
+      "A": "TCP",
+      "B": "UDP",
+      "C": "ICMP",
+      "D": "HTTP"
+    },
+    "answer": "A",
+    "occurrences": 0
+  }
+]
